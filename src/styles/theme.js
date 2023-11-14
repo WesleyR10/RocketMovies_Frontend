@@ -12,6 +12,6 @@ export default {
     MOVIE_NOTES: "rgba(255, 133, 155, 0.05)",
     TEXT_TAG: "E5E5E5",
     GRAY_100: "#948F99",
-    GRAY_300: "#CAC4CF",
+    GRAY_300: "#CAC4CF"
   }
 }

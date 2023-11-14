@@ -8,7 +8,7 @@ export function Note({ data, ...rest }) {
     <Container {...rest}>
       <h1>{data.title}</h1>
       <span>
-        {[...Array(data.note)].map((_, index) => (
+        {[...Array(data.rating)].map((_, index) => (
           <img key={index} src={star} alt="" />
         ))}
       </span>

@@ -21,7 +21,7 @@ export const Content = styled.div`
       font-weight: normal;
     }
     
-    a {
+    button {
       max-width: 207px;
       display: flex;
       align-items: center;
